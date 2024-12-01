@@ -7,7 +7,7 @@ const expressListEndpoints = require('express-list-endpoints');
 const app = express();
 const PORT = 3000;
 
-const BASE_URL = 'https://komikcast.cz';
+const BASE_URL = 'https://komikcast.bz';
 const PAGE_URL = `${BASE_URL}/daftar-komik/page/`;
 
 // Scrape popular
